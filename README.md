@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a computer science student at Penn.
+
+I'm currently working on CIT5950 this summer. 
+
 <!--
 **F-YLin/F-YLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
